@@ -8,7 +8,7 @@
  If needed, change the version to v18: nvm use v18
 
 ## Tasks
-Create routes and handlers to create, read, update, delete, and list short URLs
+## Create routes and handlers to create, read, update, delete, and list short URLs
 
 You will need to create the following API endpoints for the urls resources:
 
